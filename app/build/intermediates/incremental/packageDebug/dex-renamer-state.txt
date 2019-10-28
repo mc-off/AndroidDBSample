@@ -1,0 +1,4 @@
+#Thu Nov 15 09:12:04 MSK 2018
+base.0=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

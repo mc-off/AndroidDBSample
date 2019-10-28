@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Nov 15 09:12:18 MSK 2018
+2.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+5.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_
+6.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+2.set=DEX
+4.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_
+7.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\layout\\activity_main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_
+1.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_
+2.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_
+3.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_
+4.file=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\AndroidDBSample\\app\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE
